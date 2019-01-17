@@ -1,0 +1,19 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+#showrow {
+    margin: 0;
+}
+
+.delete {
+    display: inline;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
